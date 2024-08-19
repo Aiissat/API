@@ -1,0 +1,25 @@
+/* src/UserList.css */
+.user-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    
+}
+
+.user-list {
+    background-color: #f4f4f4;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+.list h1{
+    margin-bottom: 20px;
+}
